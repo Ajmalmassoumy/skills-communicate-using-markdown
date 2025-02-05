@@ -7,3 +7,6 @@
 ``` Html code
 <p> This is my first line of html code on GitHub </p>
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
